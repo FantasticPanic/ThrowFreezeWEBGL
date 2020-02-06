@@ -1,2 +1,0 @@
-# ThrowFreezeWEBGL
-A fps prototype
